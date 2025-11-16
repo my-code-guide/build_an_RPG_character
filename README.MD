@@ -1,7 +1,7 @@
 # Build an RPG Character
 
 This project is part of a YouTube tutorial on the **My Code Guide** channel  
-[link](https://www.youtube.com/@mycodeguide).  
+[link to the chanel](https://www.youtube.com/@mycodeguide) and [link to the tutorial](https://www.youtube.com/watch?v=WR_7VcWBkbY&list=PL3kFYvFg__ypsOofPfUVXPZhMLpijndeA&index=3).  
 
 It walks through the **freeCodeCamp (FCC) Python curriculum** and shows how to build an RPG character step-by-step, including full input validation and stat visualization.
 
